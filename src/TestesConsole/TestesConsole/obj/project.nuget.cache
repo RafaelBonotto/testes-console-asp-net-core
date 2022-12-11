@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D9IB5I72V0bw/iCf7iu5zXZGW72+cI5h+FqO3iEFsWEb9X7/pboCdq1ijECkIgSN/j7EAFgqFN4rBGAwUvlqpQ==",
+  "dgSpecHash": "Hyec/B9l0sH5yEkJ99DBLLxffmmxsCPB1ywJezhXSJ9fgiuAFfOwkRljn09z8P21zRJ6IFaSrhGdTkWGgh3SOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\TestesConsole\\TestesConsole\\TestesConsole.csproj",
+  "projectFilePath": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\Git\\testes-console-asp-net-core\\src\\TestesConsole\\TestesConsole\\TestesConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

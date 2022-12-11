@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestesConsole
-build_property.ProjectDir = C:\Users\rbonotto\Documents\Pessoal\Projetos\TestesConsole\TestesConsole\
+build_property.ProjectDir = C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\testes-console-asp-net-core\src\TestesConsole\TestesConsole\

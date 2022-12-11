@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\TestesConsole\\TestesConsole\\TestesConsole.csproj": {}
+    "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\Git\\testes-console-asp-net-core\\src\\TestesConsole\\TestesConsole\\TestesConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\TestesConsole\\TestesConsole\\TestesConsole.csproj": {
+    "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\Git\\testes-console-asp-net-core\\src\\TestesConsole\\TestesConsole\\TestesConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\TestesConsole\\TestesConsole\\TestesConsole.csproj",
+        "projectUniqueName": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\Git\\testes-console-asp-net-core\\src\\TestesConsole\\TestesConsole\\TestesConsole.csproj",
         "projectName": "TestesConsole",
-        "projectPath": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\TestesConsole\\TestesConsole\\TestesConsole.csproj",
+        "projectPath": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\Git\\testes-console-asp-net-core\\src\\TestesConsole\\TestesConsole\\TestesConsole.csproj",
         "packagesPath": "C:\\Users\\rbonotto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\TestesConsole\\TestesConsole\\obj\\",
+        "outputPath": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\Git\\testes-console-asp-net-core\\src\\TestesConsole\\TestesConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

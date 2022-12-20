@@ -1,13 +1,20 @@
-﻿
-using System.Text;
+﻿using System.Collections.Generic;
 
-var input = "dlrow";
-//StringBuilder response = new();
-//var length = input.Length - 1;
+static int[] CountBy(int x, int n)
+{
+    List<int> response = new();
+    int incremento = x;
 
-//for (int i = length; i >= 0 ; i--)
-//    response.Append(input[i].ToString());
+    while (incremento <= n)
+    {
+        response.Add(x * incremento);
+        incremento++;
+    }
+    return response.ToArray();
+}
 
-//Console.WriteLine(response.ToString());
-
-Console.WriteLine(new string(input.Reverse().ToArray()));
+var resp = CountBy(2, 5);
+foreach (var item in resp)
+{
+    Console.Write(item + " , ");
+}

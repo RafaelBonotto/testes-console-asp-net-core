@@ -10,17 +10,11 @@ Console.WriteLine(Maskify(mask));
 
 static string Maskify(string cc)
 {
-    if (cc.Length < 4)
+    int len = cc.Length;
+
+    if (len <= 4)
         return cc;
 
-    var aux = cc.Substring(cc.Length - 4);
-    string ret = string.Empty;
-
-    for (int i = 0; i < cc.Length - 4; i++)
-        ret += "#";
-
-    ret += aux;
-
-    return ret;
+    return cc.Substring(len - 4).PadLeft(len, '#');
 }
 

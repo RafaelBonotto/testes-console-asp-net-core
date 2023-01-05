@@ -1,7 +1,5 @@
-﻿// CODE WARS - 'Convert a String to a Number!'
-//Assert.AreEqual(-7, Kata.StringToNumber("-7"));
+﻿using TestesConsole;
 
+var teste = new Teste();
 
-Console.WriteLine(Func("-7"));
-static int Func(string number)
-    => Convert.ToInt32(number);
+teste.Inicializar();
